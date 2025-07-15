@@ -67,10 +67,3 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
 </div>
 
 ---
-
-## 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChayannyGois&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-</div>
-###
