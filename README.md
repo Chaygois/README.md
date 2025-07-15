@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+  <img height="150" src="<img width="512" height="512" alt="unnamed (16)" src="https://github.com/user-attachments/assets/ee13d156-2e97-4304-9216-f61827db03b1" />
+ />
 </div>
 
 <h1 align="center">Hi there, I'm Chayanny Gois! 👋</h1>
