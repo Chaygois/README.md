@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/image_b542c8.png" alt="Avatar da Chayanny Gois" height="150" />
+  <img src="https://raw.githubusercontent.com/ChayannyGois/ChayannyGois/main/assets/image_b542c8.png" alt="Avatar da Chayanny Gois" height="150" />
 </div>
 
 <h1 align="center">Hi there, I'm Chayanny Gois! 👋</h1>
@@ -48,9 +48,9 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-line.svg" height="40" alt="Cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original-wordmark.svg" height="40" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-plain-wordmark.svg" height="40" alt="Appium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="40" alt="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="40" alt="Appium" />
 </div>
 
 ### 🧰 QA, DevOps & Database Tools
