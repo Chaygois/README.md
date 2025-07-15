@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="<blob:https://gemini.google.com/6829fc87-2efb-4107-adda-018e57174e66" />
+<img height="150" src="<img blob:https://gemini.google.com/... />
  />
 </div>
 
