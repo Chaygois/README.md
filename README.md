@@ -29,7 +29,7 @@
 
 I'm a **Senior Software Quality Analyst** and **Test Automation Engineer** with over **5 years of hands-on experience** throughout the software development lifecycle.
 
-I'm passionate about delivering stable, secure products with exceptional user experience. I act as a bridge between product and development teams, actively participating in agile ceremonies to define acceptance criteria and ensure alignment.
+I'm passionate about delivering stable, secure products with an exceptional user experience. I act as a bridge between product and development teams, actively participating in agile ceremonies to define acceptance criteria and ensure alignment.
 
 - 🔭 **Currently working as:** Senior QA Analyst focused on test strategy, technical leadership, and automation.
 - 📚 **Currently learning:** Security and performance testing, and emerging approaches in AI testing.
@@ -58,7 +58,6 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" height="40" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-plain-wordmark.svg" height="40" alt="Confluence" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain-wordmark.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="40" alt="Jenkins" />
