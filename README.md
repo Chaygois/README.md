@@ -58,6 +58,7 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" height="40" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-plain-wordmark.svg" height="40" alt="Confluence" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain-wordmark.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="40" alt="Jenkins" />
