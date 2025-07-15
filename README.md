@@ -71,7 +71,6 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
 ## 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ChayannyGois&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=ChayannyGois&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
 </div>
 ###
