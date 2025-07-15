@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/your-image.png" height="150" alt="Chayanny Avatar" />
+  <img src="https://imgur.com/a/dKqch0s" />
  />
 </div>
 
