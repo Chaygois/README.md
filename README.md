@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="<img blob:https://gemini.google.com/... />
+  <img src="https://your-image-url.com/your-image.png" height="150" alt="Chayanny Avatar" />
  />
 </div>
 
