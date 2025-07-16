@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChayannyGois/ChayannyGois/main/assets/image_b542c8.png" alt="Avatar da Chayanny Gois" height="150" />
+  <img src="./assets/image_b542c8.png" alt="Avatar da Chayanny Gois" height="150" />
 </div>
 
 <h1 align="center">Hi there, I'm Chayanny Gois! 👋</h1>
@@ -50,10 +50,11 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" height="40" alt="Appium" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
- <img src="https://raw.githubusercontent.com/robotframework/robotframework.github.io/master/img/robot-framework-logo.png" height="40" alt="Robot Framework" />
-
+  <img src="https://raw.githubusercontent.com/robotframework/robotframework.github.io/master/img/robot-framework-logo.png" height="40" alt="Robot Framework" />
 </div>
+
 
 ### 🧰 QA, DevOps & Database Tools
 
@@ -69,11 +70,3 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL" />
 </div>
 
----
-
-## 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ChayannyGois&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChayannyGois&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-</div>
