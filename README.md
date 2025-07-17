@@ -53,7 +53,7 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/appium.svg" height="40" alt="Appium" /> 
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Appium-Dark.svg" height="40" alt="Appium" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/playwright.svg" height="40" alt="Playwright" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/robotframework.svg" height="40" alt="Robot Framework" /> </div>
 
 ### 🧰 QA, DevOps & Database Tools
