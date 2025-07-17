@@ -10,9 +10,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/Chaygois" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&la
+    
+    
+    belColor=&style=for-the-badge" height="25" alt="GitHub logo" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://chayportifolioapp.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
@@ -48,13 +51,12 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original-wordmark.svg" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" height="40" alt="Appium" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
   <img src="https://raw.githubusercontent.com/robotframework/robotframework.github.io/master/img/robot-framework-logo.png" height="40" alt="Robot Framework" />
 </div>
-
 
 ### 🧰 QA, DevOps & Database Tools
 
