@@ -51,8 +51,8 @@ I specialize in **backend, frontend, and mobile test automation** with solid Dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="Cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg" height="40" alt="Cypress" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg" height="40" alt="Cypress" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" height="40" alt="Appium" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
   <img src="https://raw.githubusercontent.com/robotframework/robotframework.github.io/master/img/robot-framework-logo.png" height="40" alt="Robot Framework" />
